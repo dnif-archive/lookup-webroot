@@ -1,0 +1,6 @@
+lookup_plugin:
+  BRIGHTCLOUD_OEMID: <Add_your_oemid_here>
+  BRIGHTCLOUD_DEVICEID: <Add_your_deviceid_here>
+  BRIGHTCLOUD_UID: <Add_your_uid_here>
+  
+
